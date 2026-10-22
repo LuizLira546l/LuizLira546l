@@ -23,10 +23,10 @@ Estou construindo meu portfólio por meio de projetos que envolvem programação
 
 *Adicione aqui as tecnologias que você já utiliza e aquelas que está aprendendo.*
 
-- Linguagens: Python, SQL, JavaScript/TypeScript
+- Linguagens: Python, SQL e R
 - Análise de dados: pandas, NumPy
 - Visualização: Matplotlib, Seaborn
-- Ferramentas: Git, GitHub, Jupyter Notebook
+- Ferramentas: Git e GitHub
 
 ## Projetos em destaque
 
